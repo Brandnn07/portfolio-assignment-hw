@@ -6,6 +6,6 @@
 
 # The portfolio contains the following info:
     1. A photo of ourselves
-    ![alt text](assets/images/20180518_180357.jpg) 
+   ![alt text](assets/images/20180518_180357.jpg) 
     2. Information about ourselves
     3. And our [Contact](https://brandnn07.github.io/portfolio-assignment-hw) info 
